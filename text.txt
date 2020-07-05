@@ -1,4 +1,5 @@
 This is a line.
 Aqui vai dar conflito.
+Vai dar conflito mesmo.
 This is another line.
 This is yet another line.
